@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MoloneyKing
 - 👀 I’m interested in data, coding, and art.
-- 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on ...
+- 🌱 Using SQL to play with data
+- 💞️ I’m looking to collaborate on learning
 - 📫 How to reach me www.MichelleMoloneyKing.com
 
 <!---
