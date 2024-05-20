@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MoloneyKing
-- 👀 I’m interested in data, coding, and art.
-- 🌱 Using SQL to play with data
-- 💞️ I’m looking to collaborate on learning
-- 📫 How to reach me www.MichelleMoloneyKing.com
+- 👀 I’m interested in info sec, bug bounty, and art.
+-- 💞️ I’m looking to collaborate on learning
+
 
 <!---
 MoloneyKing/MoloneyKing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
